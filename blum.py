@@ -1111,7 +1111,7 @@ def printdelay(delay):
     now = datetime.now().isoformat(" ").split(".")[0]
     hours, remainder = divmod(delay, 3600)
     minutes, sec = divmod(remainder, 60)
-    print(f"{now} | (https://t.me/mrptechofficial) : {hours} hours, {minutes} minutes, and {round(sec)} seconds")
+    print(f"{now} | (https://t.me/BlackScorpionMrx) : {hours} hours, {minutes} minutes, and {round(sec)} seconds")
 
 if __name__ == "__main__":
     start()
