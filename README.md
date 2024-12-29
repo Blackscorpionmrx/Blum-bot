@@ -16,7 +16,7 @@ pkg install git
    git clone https://github.com/Blackscorpionmrx/Blum-bot.git
    ```
    ```bash
-   cd blum2
+   cd Blum-bot
    ```
 3. **ADD ACCOUNTS**
    ```
